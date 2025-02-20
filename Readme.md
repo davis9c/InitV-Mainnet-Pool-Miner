@@ -9,15 +9,15 @@ File ini dibuat untuk mempermudah menjalankan initverse
 Adapun pool yang bisa digunakan:
 
 **Pool**
-    pool A
+1.  pool A
     ```sh
     pool-a.yatespool.com:31588
     ```
-    pool B
+2.  pool B
     ```sh
     pool-b.yatespool.com:32488
     ```
-    pool C
+3.  pool C
     ```sh
     pool-c.yatespool.com:31189
     ```
