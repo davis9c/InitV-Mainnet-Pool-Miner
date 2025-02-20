@@ -2,7 +2,8 @@
 
 ## Deskripsi singkat
 
-File ini dibuat untuk mempermudah menjalankan initverse
+File ini dibuat untuk mempermudah menjalankan initverse.
+anda bisa memeriksa manualnya [disini](https://inichain.gitbook.io/initverseinichain/inichain/mining-mainnet)
 
 ## List Pool
 
