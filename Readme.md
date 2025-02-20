@@ -9,13 +9,16 @@ File ini dibuat untuk mempermudah menjalankan initverse
 Adapun pool yang bisa digunakan:
 
 **Pool**
-    ```pool A
+    pool A
+    ```
     pool-a.yatespool.com:31588
     ```
-    ```pool B
+    pool B
+    ```
     pool-b.yatespool.com:32488
     ```
-    ```pool C
+    pool C
+    ```
     pool-c.yatespool.com:31189
     ```
 
@@ -24,13 +27,16 @@ Adapun pool yang bisa digunakan:
 Adapun pool yang bisa digunakan untuk memonitor:
 
 **Pool**
-    ```pool A
+    pool A
+    ```
     https://a.yatespool.com/
     ```
-    ```pool B
+    pool B
+    ```
     https://b.yatespool.com/
     ```
-    ```pool C
+    pool C
+    ```
     https://c.yatespool.com/
     ```
 
@@ -40,12 +46,12 @@ Untuk menjalankan proyek ini, ikuti langkah-langkah di bawah ini:
 
 1. Clone repositori:
     ```sh
-    git clone https://github.com/username/repository.git
+    git clone https://github.com/davis9c/InitV-Mainnet-Pool-Miner.git
     ```
 
 2. Masuk ke direktori proyek:
     ```sh
-    cd repository
+    cd InitV-Mainnet-Pool-Miner
     ```
 
 3. Build:
