@@ -46,14 +46,14 @@ Untuk menjalankan proyek ini, ikuti langkah-langkah di bawah ini:
     cd InitV-Mainnet-Pool-Miner
     ```
 
-3. Build:
+3. Build (init1 adalah nama image, tinggal sesuaikan):
     ```sh
-    docker build -t <init-1> .
+    docker build -t init1 .
     ```
 
-4. Jalankan aplikasi:
+4. Jalankan aplikasi (init1 adalah nama image, tinggal sesuaikan):
     ```sh
-    docker run -it <init-1>
+    docker run -it init1
     ```
 
 5.  Cek log:
@@ -61,13 +61,3 @@ Untuk menjalankan proyek ini, ikuti langkah-langkah di bawah ini:
     docker log
     ```
 
-## Kode Contoh
-
-Contoh kode atau skrip yang digunakan dalam proyek ini:
-
-```sh
-# Menjalankan migrasi database
-php artisan migrate
-
-# Menjalankan server pengembangan
-php artisan serve
