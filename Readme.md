@@ -58,6 +58,11 @@ Untuk menjalankan proyek ini, ikuti langkah-langkah di bawah ini:
 
 5.  Cek log:
     ```sh
-    docker log
+    docker ps
     ```
+    ```sh
+    docker logs -f --tail 1000 [container_id]
+    ```
+
+
 
