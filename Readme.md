@@ -23,15 +23,6 @@ Adapun pool yang bisa digunakan:
     pool-c.yatespool.com:31189
     ```
 
-## List Pool monitor
-
-Adapun pool yang bisa digunakan untuk memonitor:
-
-**Pool**
-    [pool B](https://a.yatespool.com/)
-    [pool B](https://b.yatespool.com/)
-    [pool B](https://c.yatespool.com/)
-
 ## Cara Menggunakan
 
 Untuk menjalankan proyek ini, ikuti langkah-langkah di bawah ini:
@@ -64,5 +55,12 @@ Untuk menjalankan proyek ini, ikuti langkah-langkah di bawah ini:
     docker logs -f --tail 1000 [container_id]
     ```
 
+6.  Monitor your pool:
 
+    Adapun pool yang bisa digunakan untuk memonitor:
+
+    **Pool**
+        [pool A](https://a.yatespool.com/)
+        [pool B](https://b.yatespool.com/)
+        [pool C](https://c.yatespool.com/)
 
