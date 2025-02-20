@@ -10,15 +10,15 @@ Adapun pool yang bisa digunakan:
 
 **Pool**
     pool A
-    ```
+    ```sh
     pool-a.yatespool.com:31588
     ```
     pool B
-    ```
+    ```sh
     pool-b.yatespool.com:32488
     ```
     pool C
-    ```
+    ```sh
     pool-c.yatespool.com:31189
     ```
 
@@ -27,18 +27,9 @@ Adapun pool yang bisa digunakan:
 Adapun pool yang bisa digunakan untuk memonitor:
 
 **Pool**
-    pool A
-    ```
-    https://a.yatespool.com/
-    ```
-    pool B
-    ```
-    https://b.yatespool.com/
-    ```
-    pool C
-    ```
-    https://c.yatespool.com/
-    ```
+    [pool B](https://a.yatespool.com/)
+    [pool B](https://b.yatespool.com/)
+    [pool B](https://c.yatespool.com/)
 
 ## Cara Menggunakan
 
